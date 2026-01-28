@@ -19,7 +19,7 @@ body {
     background: #fff;
     margin-right: 20px;
     margin-bottom: 40px;
-    padding: 10px 20px 10px 10px;
+    padding: 10px 40px 10px 30px;
     border-radius: 3px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
@@ -44,7 +44,7 @@ body {
 .dot-label {
     position: absolute;
     top: 0;
-    right: 0;
+    right: 10;
     font-style: italic;
 }
 
