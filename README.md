@@ -6,11 +6,11 @@
 ## Maps and Screenshots
 - **Choropleth Map (Rates per 1,000 Residents)**  
 ![Choropleth Map](mymap1.png)  
-Link to live map: [[LINK](https://Kur0Vargas.github.io/GEOG458-Lab3-Web-Map/map1.html)]
+Link to live map: [[LINK](https://Kur0Vargas.github.io/GEOG458-COVID-County-Visualizer-Lab-3-/map1.html)]
 
 - **Centroid Map (Absolute Case Counts)**  
 ![Centroid Map](mymap2.png)  
-Link to live map: [[LINK](https://Kur0Vargas.github.io/GEOG458-Lab3-Web-Map/map2.html)]
+Link to live map: [[LINK](https://Kur0Vargas.github.io/GEOG458-COVID-County-Visualizer-Lab-3-/map2.html)]
 
 ## Primary Functions
 - **Choropleth Map**
