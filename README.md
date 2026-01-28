@@ -1,7 +1,7 @@
 # COVID County Visualizer
 
 ## Overview
-**COVID County Visualizer** is an interactive web mapping lab that visualizes county-level COVID-19 data in the United States. The project includes two main maps. A choropleth map showing COVID-19 rates per 1,000 residents and a centroid map displaying the number of cases per county. The maps showcase a spatial distribution of COVID-19 cases across the country.
+COVID County Visualizer is an interactive web mapping lab that visualizes county-level COVID-19 data in the United States. The project includes two main maps. A choropleth map showing COVID-19 rates per 1,000 residents and a centroid map displaying the number of cases per county. The maps showcase a spatial distribution of COVID-19 cases across the country.
 
 ## Maps and Screenshots
 - **Choropleth Map (Rates per 1,000 Residents)**  
